@@ -121,6 +121,7 @@ https://app.any.run/tasks/7e906adc-9d11-447f-8641-5f40375ecebb
 https://app.any.run/tasks/7eaba74e-c1ea-400f-9c17-5e30eee89906/
 https://app.any.run/tasks/81f3c28c-c686-425d-8a2b-a98198d244e1/
 https://app.any.run/tasks/84fc9b4a-ea2b-47b1-8aa6-9014402dfb56/
+https://app.any.run/tasks/8901e2d5-0c5a-48ba-a8e9-10b5ed7e06f4
 https://app.any.run/tasks/8b9a571b-bcc1-4783-ba32-df4ba623b9c0/
 https://app.any.run/tasks/8bbd5b4c-b82d-4e6d-a3ea-d454594a37cc/
 https://app.any.run/tasks/8e22486b-5edc-4cef-821c-373e945f296c/
@@ -1085,6 +1086,7 @@ https://github.com/Kevin-Robertson/Inveigh/blob/29d9e3c3a625b3033cdaf4683efaafad
 https://github.com/Kevin-Robertson/Inveigh/blob/29d9e3c3a625b3033cdaf4683efaafadcecb9007/Inveigh/Support/Output.cs
 https://github.com/Kevin-Robertson/Powermad
 https://github.com/keyboardcrunch/SentinelOne-ATTACK-Queries/blob/6a228d23eefe963ca81f2d52f94b815f61ef5ee0/Tactics/DefenseEvasion.md#t1055-process-injection
+https://github.com/kh4sh3i/CVE-2025-32463/blob/81bb430f84fa2089224733c3ed4bfa434c197ad4/exploit.sh
 https://github.com/kleiton0x00/RedditC2
 https://github.com/klinix5/InstallerFileTakeOver
 https://github.com/klsecservices/Publications/blob/657deb6a6eb6e00669afd40173f425fb49682eaa/Incident-Response-Analyst-Report-2020.pdf
@@ -1168,6 +1170,7 @@ https://github.com/Neo23x0/Raccine/blob/20a569fa21625086433dcce8bb2765d0ea08dcb6
 https://github.com/Neo23x0/signature-base/blob/615bf1f6bac3c1bdc417025c40c073e6c2771a76/yara/gen_susp_lnk_files.yar#L19
 https://github.com/Neo23x0/sysmon-config/blob/3f808d9c022c507aae21a9346afba4a59dd533b9/sysmonconfig-export-block.xml#L1326
 https://github.com/netero1010/EDRSilencer
+https://github.com/netero1010/EDRSilencer/blob/0e73a7037ec65c52894d8208e6f605a7da0a34a6/EDRSilencer.c
 https://github.com/netero1010/TrustedPath-UACBypass-BOF
 https://github.com/NetSPI/aws_consoler
 https://github.com/NetSPI/PowerUpSQL
@@ -1294,6 +1297,7 @@ https://github.com/redcanaryco/atomic-red-team/blob/73fcfa1d4863f6a4e17f90e54401
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1505.005/T1505.005.md
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1547.015/T1547.015.md#atomic-test-1---persistence-by-modifying-windows-terminal-profile
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1570/T1570.md
+https://github.com/redcanaryco/atomic-red-team/blob/75fa21076dcefa348a7521403cdd6bfc4e88623c/atomics/T1082/T1082.md
 https://github.com/redcanaryco/atomic-red-team/blob/7e11e9b79583545f208a6dc3fa062f2ed443d999/atomics/T1548.002/T1548.002.md
 https://github.com/redcanaryco/atomic-red-team/blob/84215139ee5127f8e3a117e063b604812bd71928/atomics/T1047/T1047.md#atomic-test-5---wmi-execute-local-process
 https://github.com/redcanaryco/atomic-red-team/blob/84d9edaaaa2c5511144521b0e4af726d1c7276ce/atomics/T1539/T1539.md#atomic-test-2---steal-chrome-cookies-windows
@@ -1656,6 +1660,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/EDR-Freeze/blob/a7f61030b36fbde89871f393488f7075d2aa89f6/EDR-Freeze.cpp#L53
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1757,6 +1762,7 @@ https://hijacklibs.net/entries/3rd_party/vlc/libvlc.html
 https://hijacklibs.net/entries/microsoft/built-in/dbgmodel.html
 https://hijacklibs.net/entries/microsoft/built-in/mpsvc.html
 https://hijacklibs.net/entries/microsoft/built-in/mscorsvc.html
+https://hopeness.medium.com/master-the-linux-mknod-command-a-comprehensive-guide-1c150a546aa8
 https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/cobalt-4-5-user-guide.pdf
 https://hunter2.gitbook.io/darthsidious/execution/responder-with-ntlm-relay-and-empire
 https://hunter2.gitbook.io/darthsidious/other/war-stories/domain-admin-in-30-minutes
@@ -1924,6 +1930,7 @@ https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#device-registrations-and-joins-outside-policy
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-infrastructure#conditional-access
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#assignment-and-elevation
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#changes-to-privileged-accounts
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#things-to-monitor
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-identity-management#azure-ad-roles-assignment
@@ -2104,6 +2111,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-delete
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/secedit
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/set_1
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
@@ -2125,6 +2133,7 @@ https://learn.microsoft.com/en-us/windows/security/application-security/applicat
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/using-event-viewer-with-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/operations/event-tag-explanations
+https://learn.microsoft.com/en-us/windows/security/hardware-security/enable-virtualization-based-protection-of-code-integrity
 https://learn.microsoft.com/en-us/windows/security/identity-protection/virtual-smart-cards/virtual-smart-card-tpmvscmgr
 https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4634
 https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4647
@@ -2331,6 +2340,7 @@ https://man.openbsd.org/ssh_config#ProxyCommand
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
+https://man7.org/linux/man-pages/man2/sysinfo.2.html
 https://man7.org/linux/man-pages/man7/bpf-helpers.7.html
 https://man7.org/linux/man-pages/man8/getcap.8.html
 https://man7.org/linux/man-pages/man8/kmod.8.html
@@ -2398,6 +2408,7 @@ https://micahbabinski.medium.com/search-ms-webdav-and-chill-99c5b23ac462
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/container%20service%20account/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Data%20destruction/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Exec%20into%20container/
+https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/List%20K8S%20secrets/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Pod%20or%20container%20name%20similarily/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Sidecar%20Injection/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Writable%20hostPath%20mount/
@@ -2806,6 +2817,7 @@ https://support.citrix.com/article/CTX276688
 https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967
 https://support.f5.com/csp/article/K52145254
 https://support.google.com/a/answer/9261439
+https://support.kaspersky.com/KES4Linux/12.0.0/en-US/197929.htm
 https://support.microsoft.com/en-us/help/4557222/how-to-manage-the-changes-in-netlogon-secure-channel-connections-assoc
 https://support.microsoft.com/en-us/topic/how-to-control-the-rule-actions-to-start-an-application-or-run-a-macro-in-outlook-2016-and-outlook-2013-e4964b72-173c-959d-5d7b-ead562979048
 https://support.microsoft.com/en-us/topic/information-about-the-attachment-manager-in-microsoft-windows-c48a4dcd-8de5-2af5-ee9b-cd795ae42738
@@ -2900,6 +2912,7 @@ https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomw
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
+https://thedfirreport.com/2025/02/24/confluence-exploit-leads-to-lockbit-ransomware/
 https://thedfirreport.com/2025/06/30/hide-your-rdp-password-spray-leads-to-ransomhub-deployment/
 https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html
 https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html
@@ -2946,6 +2959,7 @@ https://tria.ge/240226-fhbe7sdc39/behavioral1
 https://tria.ge/240301-rk34sagf5x/behavioral2
 https://tria.ge/240307-1hlldsfe7t/behavioral2/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240521-ynezpagf56/behavioral1
+https://tria.ge/241015-l98snsyeje/behavioral2
 https://trustedsec.com/blog/adexplorer-on-engagements
 https://trustedsec.com/blog/oops-i-udld-it-again
 https://trustedsec.com/blog/specula-turning-outlook-into-a-c2-with-one-registry-change
@@ -3373,6 +3387,7 @@ https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-governmen
 https://unit42.paloaltonetworks.com/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/
 https://unit42.paloaltonetworks.com/guloader-installing-netwire-rat/
 https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
+https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/
 https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/
 https://unit42.paloaltonetworks.com/operation-ke3chang-resurfaces-with-new-tidepool-malware/
 https://unit42.paloaltonetworks.com/preventing-clickfix-attack-vector/
@@ -3721,6 +3736,7 @@ https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/
 https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-tooling
 https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats
 https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass
+https://www.huntress.com/blog/active-exploitation-solarwinds-web-help-desk-cve-2025-26399
 https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
@@ -3901,6 +3917,7 @@ https://www.netspi.com/blog/technical/network-penetration-testing/decrypting-iis
 https://www.netspi.com/blog/technical/network-penetration-testing/sql-server-persistence-part-1-startup-stored-procedures/
 https://www.nextron-systems.com/2021/08/16/antivirus-event-analysis-cheat-sheet-v1-8-2/
 https://www.nextron-systems.com/2021/10/24/monero-mining-pool-fqdns/
+https://www.nextron-systems.com/2024/03/22/unveiling-kamikakabot-malware-analysis/
 https://www.nextron-systems.com/?s=antivirus
 https://www.nirsoft.net/utils/nircmd.html
 https://www.nirsoft.net/utils/nircmd2.html#using
@@ -4271,6 +4288,7 @@ https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-d
 https://www.zscaler.com/blogs/security-research/steal-it-campaign
 https://www.zscaler.com/blogs/security-research/technical-analysis-crytox-ransomware
 https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attack-vectors-apt37
+https://x.com/0x534c/status/1944694507787710685
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
 https://x.com/defusedcyber/status/1971492272966598683
