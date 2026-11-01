@@ -397,6 +397,7 @@ https://cyble.com/blog/lockfile-ransomware-using-proxyshell-attack-to-deploy-ran
 https://cybleinc.com/2021/02/15/ngrok-platform-abused-by-hackers-to-deliver-a-new-wave-of-phishing-attacks/
 https://cydefops.com/devtunnels-unleashed
 https://cydefops.com/vscode-data-exfiltration
+https://darkatlas.io/blog/medusa-ransomware-group-opsec-failure
 https://darkdefender.medium.com/windows-10-mail-app-forensics-39025f5418d2
 https://dataconomy.com/2023/10/23/okta-data-breach/
 https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/
@@ -1899,6 +1900,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#block-process-creations-originating-from-psexec-and-wmi-commands
 https://learn.microsoft.com/en-us/defender-endpoint/configure-process-opened-file-exclusions-microsoft-defender-antivirus
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus
+https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5001
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5010
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5012
@@ -1906,6 +1908,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defen
 https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference
 https://learn.microsoft.com/en-us/dotnet/api/microsoft.hpc.scheduler.store.cx509enrollmentwebclassfactoryclass?view=hpc-sdk-5.1.6115
 https://learn.microsoft.com/en-us/dotnet/api/system.appdomain.load?view=net-7.0
+https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.eventlog.clear
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadfile?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadstring?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
@@ -2169,6 +2172,7 @@ https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-remotely-starting-with-vista
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/mofcomp
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
+https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/fsutil-behavior
 https://learn.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://liberty-shell.com/sec/2020/02/25/shim-persistence/
 https://linux-audit.com/systemd/faq/what-is-the-difference-between-systemctl-disable-and-systemctl-mask/
@@ -2360,6 +2364,7 @@ https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-
 https://medium.com/@MalFuzzer/one-electron-to-rule-them-all-dc2e9b263daf
 https://medium.com/@malwaredancer/lockergoga-input-arguments-ipc-communication-and-others-bd4e5a7ba80a
 https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
+https://medium.com/@msuiche/the-nsa-compromised-swift-network-50ec3000b195
 https://medium.com/@mvelazco/hunting-for-samaccountname-spoofing-cve-2021-42287-and-domain-controller-impersonation-f704513c8a45
 https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6
 https://medium.com/@NullByteWht/hacking-macos-how-to-dump-1password-keepassx-lastpass-passwords-in-plaintext-723c5b1c311b
@@ -2456,6 +2461,7 @@ https://nmap.org/ncat/
 https://nodejs.org/api/cli.html
 https://nored0x.github.io/red-teaming/office-persistence/#what-is-a-wll-file
 https://notebook.community/Cyb3rWard0g/HELK/docker/helk-jupyter/notebooks/sigma/proxy_ursnif_malware
+https://notepad-plus-plus.org/news/v889-released/
 https://nsfocusglobal.com/apache-solr-arbitrary-file-read-and-ssrf-vulnerability-threat-alert/
 https://nsudo.m2team.org/en-us/
 https://nullsec.us/windows-event-log-audit-cve/
@@ -3716,6 +3722,8 @@ https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
 https://www.helpnetsecurity.com/2023/08/02/aws-instances-attackers-access/
+https://www.hexacorn.com/blog/2013/12/08/beyond-good-ol-run-key-part-5/
+https://www.hexacorn.com/blog/2018/05/28/beyond-good-ol-run-key-part-78-2/
 https://www.hhs.gov/sites/default/files/manage-engine-vulnerability-sector-alert-tlpclear.pdf
 https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/
 https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-tooling
@@ -3724,6 +3732,7 @@ https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screen
 https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
+https://www.huntress.com/blog/know-thy-enemy-a-novel-november-case-on-persistent-remote-access
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/the-unwanted-guest
@@ -3847,6 +3856,7 @@ https://www.microsoft.com/en-us/security/blog/2022/07/26/malicious-iis-extension
 https://www.microsoft.com/en-us/security/blog/2022/10/18/defenders-beware-a-case-for-post-ransomware-investigations/
 https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/
 https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/
+https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/
 https://www.microsoft.com/en-us/security/blog/2023/03/24/guidance-for-investigating-attacks-using-cve-2023-23397/
 https://www.microsoft.com/en-us/security/blog/2023/04/11/guidance-for-investigating-attacks-using-cve-2022-21894-the-blacklotus-campaign/
 https://www.microsoft.com/en-us/security/blog/2023/04/18/nation-state-threat-actor-mint-sandstorm-refines-tradecraft-to-attack-high-value-targets/
